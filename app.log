@@ -1,0 +1,6 @@
+[92m2024-11-09 12:10:06 - root - INFO - This is an info message[0m
+[01;93m2024-11-09 12:10:06 - root - WARNING - This is a warning message[0m
+[01;91m2024-11-09 12:10:06 - root - ERROR - This is an error message[0m
+[01;95m2024-11-09 12:10:06 - root - CRITICAL - This is a critical message[0m
+[02m2024-11-09 12:10:06 - root - DEBUG - This is a debug message[0m
+[92m2024-11-09 12:10:06 - root - INFO - This is another info message[0m
